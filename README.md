@@ -1,16 +1,52 @@
-## Hi there 👋
+# 안녕하세요, 저는 구혜연입니다 👋
 
-<!--
-**hyeyeon9/hyeyeon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+풀스택 프로젝트를 주도적으로 경험하며, **프론트엔드 개발자**로 성장 중인 구혜연입니다.
 
-Here are some ideas to get you started:
+기획부터 배포까지 전체적인 흐름을 이해하며,
+사용자 관점에서 **실용적인 기능**을 고민하는 걸 좋아합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+현실적인 문제 해결을 항상 우선으로 두고, 
+**시스템 전체 흐름까지 이해하는 프론트엔드 개발자**를 목표로 한 걸음씩 성장하는 중입니다.
+
+
+---
+
+### 🚀 대표 프로젝트: [Daily24 무인편의점 관리 시스템](https://github.com/KDT7team1/backend)
+
+무인매장 점주를 위한 **스마트 매장 운영 솔루션**입니다.  
+매출, 재고, 발주, 폐기 등 점주가 매장을 운영하며 겪는 주요 문제들을  
+**데이터 분석 및 실시간 알림, 챗봇 UI**를 통해 해결하는 시스템을 개발했습니다.
+
+**🔧 주요 기여 요약**
+- 장바구니 분석 (Apriori 알고리즘 기반, Nivo 히트맵/라인차트 시각화)
+- 실시간 알림 (SSE 기반, 결제/폐기/재고 부족 등 알림 UI)
+- 재고 / 발주 / 폐기 통계 UI 및 분석 기능 개발
+- FastAPI + LangChain 챗봇 서버 개발 및 React 연동
+- AWS Beanstalk 및 S3 배포 경험
+
+👉 [백엔드 클론](https://github.com/hyeyeon9/backend) · [프론트엔드 클론](https://github.com/hyeyeon9/frontend)
+
+---
+
+### 💡 성향 & 특성
+
+- 완벽한 구조보다 **지금 필요한 기능을 실용적으로 구현**하는 데 집중합니다.
+- 궁금한 건 바로 물어보고, 해야 할 일은 책임감 있게 마무리하는 스타일입니다.
+- **팀 프로젝트에서 더 몰입하고, 실행력이 높아지는 편**입니다.
+- 새로운 기술이나 도메인에 대한 **학습 호기심**이 많고, 빠르게 적응하고 경험하는 걸 좋아합니다.
+
+---
+
+### 🎯 목표
+
+> 사용자에게 **직관적이고 안정적인 경험**을 주는 프론트엔드 개발자로 성장하는 것,</br>
+> 단순 정보 제공을 넘어 **사용자의 행동을 이끌어내는 UI/UX**를 만드는 개발자가 되는 것이 제 목표입니다.
+
+---
+
+### 📬 Contact
+
+- 💬 Velog: [벨로그 링크](https://velog.io/@yeon_99/posts) 
+
+---
+
