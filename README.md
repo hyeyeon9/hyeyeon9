@@ -9,13 +9,21 @@
 **시스템 전체 흐름까지 이해하는 프론트엔드 개발자**를 목표로 한 걸음씩 성장하는 중입니다.
 
 ### 💻 기술 스택
-
+#### Fronted </br>
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+
+#### Backend </br>
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+#### DB & ORM  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![JPA](https://img.shields.io/badge/JPA-%23007ACC?style=for-the-badge&logo=java&logoColor=white)]()
+
 
 
 
@@ -44,14 +52,6 @@ App Router 구조 이해부터 성능 최적화까지 전체 개발 흐름을 �
 - Lighthouse 기반 성능 개선 (TBT 6.7초 → 2.6초, SEO 100점 달성)
   
 👉 [Groupie 클론](https://github.com/hyeyeon9/groupie)
-
----
-
-### 💡 성향 & 특성
-
-- 새로운 기술이나 도메인에 대한 **학습 호기심**이 많고, 빠르게 적응하고 경험하는 걸 좋아합니다.
-- 궁금한 건 바로 물어보고, 해야 할 일은 책임감 있게 마무리하는 스타일입니다.
-- **팀 프로젝트에서 더 몰입하고, 실행력이 높아지는 편**입니다.
 
 ---
 
