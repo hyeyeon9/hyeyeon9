@@ -1,63 +1,29 @@
-# 안녕하세요, 저는 구혜연입니다 👋
 
-풀스택 프로젝트를 주도적으로 경험하며, **프론트엔드 개발자**로 성장 중인 구혜연입니다.
+### 🛠 Tech Stack
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-기획부터 배포까지 전체적인 흐름을 이해하며,
-사용자 관점에서 **실용적인 기능**을 고민하는 걸 좋아합니다.
-
-현실적인 문제 해결을 항상 우선으로 두고, 
-**시스템 전체 흐름까지 이해하는 프론트엔드 개발자**를 목표로 한 걸음씩 성장하는 중입니다.
-
-### 💻 기술 스택
-#### Fronted </br>
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org/)
-
-#### Backend </br>
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-#### DB & ORM  
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
-[![JPA](https://img.shields.io/badge/JPA-%23007ACC?style=for-the-badge&logo=java&logoColor=white)]()
-
-
-
+#### Backend & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-
-### 🚀 대표 팀프로젝트: [Daily24 무인편의점 관리 시스템](https://github.com/KDT7team1/backend)
-
-**🔧 주요 기여 요약**
-- 장바구니 분석 (Apriori 알고리즘 기반, Nivo 히트맵/라인차트 시각화)
-- 실시간 알림 (SSE 기반, 결제/폐기/재고 부족 등 알림 UI)
-- 재고 / 발주 / 폐기 통계 UI 및 분석 기능 개발
-- FastAPI + LangChain 챗봇 서버 개발 및 React 연동
-- AWS Beanstalk 및 S3 배포 경험
-
-👉 [백엔드 클론](https://github.com/hyeyeon9/backend) · [프론트엔드 클론](https://github.com/hyeyeon9/frontend)
-
----
-### 🧑‍💻 개인 프로젝트 : [Groupie 스터디 모집 플랫폼](https://github.com/hyeyeon9/groupie)
-Next.js 기반으로 구현한 스터디 모집/탐색 서비스입니다.
-검색, 필터링, 무한스크롤, 일정 시각화 등 사용자 중심의 인터랙션 기능을 구현하고,
-App Router 구조 이해부터 성능 최적화까지 전체 개발 흐름을 경험한 프로젝트입니다.
-
-**🔧 주요 기여 요약**
-- App Router 기반 페이지 구조 설계 및 SPA 구현
-- Prisma ORM을 활용한 CRUD 및 타입 기반 API 설계
-- Lighthouse 기반 성능 개선 (TBT 6.7초 → 2.6초, SEO 100점 달성)
-  
-👉 [Groupie 클론](https://github.com/hyeyeon9/groupie)
+### 🎯 Focus & Goals (2026.04)
+현재 저는 이런 성장을 이어가고 있습니다.
+* **Data Fetching:** TanStack Query를 도입하여 효율적인 서버 상태 관리와 캐싱 전략 공부 중.
+* **UI/UX:** 복잡한 도메인을 이해하고, 사용자 관점에서 데이터 접근이 용이한 UI/UX를 설계.
+* **Infrastructure:** Docker 기반의 효율적인 컨테이너 관리와 배포 자동화에 관심.
 
 ---
 
 ### 📬 Contact
-- 📨 email : ik0n44@naver.com
-- 💬 Velog: [벨로그 링크](https://velog.io/@yeon_99/posts) 
+- 📨 **Email:** ik0n44@naver.com
+- 📝 **Blog:** [Velog - yeon_99](https://velog.io/@yeon_99/posts)
 
 ---
 
